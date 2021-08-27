@@ -11,4 +11,4 @@ Commands:
 /rs, realisticspyglass, spyglass are all valid aliases.
 /rs toggle: toggles plugin
 /rs debug: toggle debug messages
-/rs blindtime <blindtime>: set blind time, -1 for perm!
+/rs blindtime <blindtime>: set blind time, -1 for perm blind!
