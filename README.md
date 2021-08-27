@@ -1,14 +1,8 @@
 # Realistic-Spyglass
-A minecraft plugin that makes you go blind when you look at the sun!
-Includes a config and commands to help you use it.
+A minecraft plugin that makes you go blind when you look at the sun, config and commands included!
 
-Config:
-enabled: toggles plugin
-debug-messages: show debug messages, will spam chat.
-blind-time: the blindness time in seconds! -1 is perm blind!
+Minecraft Versions: 1.17 (the only tested version atm)
 
-Commands:
-/rs, realisticspyglass, spyglass are all valid aliases.
-/rs toggle: toggles plugin
-/rs debug: toggle debug messages
-/rs blindtime <blindtime>: set blind time, -1 for perm blind!
+There are stil some issues though, and the tracking of the sun may not be perfect (I have to approximate it's location given time of day). I hope to update it and make more precise tracking, but it's still not bad.
+
+If you enjoy this plugin and want to support me, consider subscribing on youtube (https://www.youtube.com/c/sprintkeyz)! This plugin took hours to make, so i'd appreciate it <3
