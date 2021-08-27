@@ -1,0 +1,6 @@
+# toggles the plugin!
+enabled: true
+# show/hide debug messages! WARNING: WILL SPAM EVERYONE'S CHATS!
+debug-messages: false
+# set blindness time (seconds)! -1 is permanent.
+blind-time: 20

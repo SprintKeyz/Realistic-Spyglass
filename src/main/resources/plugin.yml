@@ -1,0 +1,12 @@
+main: com.sprintkeyz.realisticspyglass.RealisticSpyglass
+name: RealisticSpyglass
+version: 1.0
+api-version: 1.17
+author: SprintKeyz
+
+
+commands:
+  spyglass:
+    description: Realistic Spyglass coommand library
+    usage: /rs <arg>
+    aliases: [realisticspyglass, rs]
